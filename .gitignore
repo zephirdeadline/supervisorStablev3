@@ -1,0 +1,6 @@
+*.pcy
+*.pyc
+__pycache__/*
+.idea/*
+djangoAPI_rest_object/*
+venv/*
